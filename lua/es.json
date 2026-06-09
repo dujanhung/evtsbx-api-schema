@@ -12,6 +12,16 @@
    "name":"start",
    "variant-type":"nil",
    "flag":"virtual"
+  },
+  {
+   "name":"update",
+   "variant-type":"nil",
+   "flag":"virtual"
+  },
+  {
+   "name":"fixedUpdate",
+   "variant-type":"nil",
+   "flag":"virtual"
   }
  ]
 }
