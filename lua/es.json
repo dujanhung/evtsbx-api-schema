@@ -5,6 +5,12 @@
  "methods":[
   {
    "name":"onPlace",
+   "variant-type":"nil"
+   "flag":"virtual"
+  },
+  {
+   "name":"start",
+   "variant-type":"nil",
    "flag":"virtual"
   }
  ]
