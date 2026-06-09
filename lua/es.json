@@ -4,7 +4,7 @@
  "flag":"getter",
  "methods":[
   {
-   "name:"onPlace",
+   "name":"onPlace",
    "flag":"virtual"
   }
  ]
