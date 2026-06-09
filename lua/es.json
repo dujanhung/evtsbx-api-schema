@@ -30,7 +30,7 @@
    "mandatory":[
     {
      "name":"msg",
-     "variant-type":"str"
+     "variant-type":"string"
     }
    ]
   }
